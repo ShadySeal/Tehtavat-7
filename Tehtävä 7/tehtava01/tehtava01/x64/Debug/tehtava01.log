@@ -1,0 +1,14 @@
+﻿  tehtava01.cpp
+C:\Users\lvleh\Documents\C++\Tehtävä 7\tehtava01\tehtava01\tehtava01.cpp(22,29): warning C4267: 'return': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\lvleh\Documents\C++\Tehtävä 7\tehtava01\tehtava01\tehtava01.cpp(21,7): message : while compiling class template member function 'T Stack<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+C:\Users\lvleh\Documents\C++\Tehtävä 7\tehtava01\tehtava01\tehtava01.cpp(32,58): message : see the first reference to 'Stack<int>::size' in 'main'
+C:\Users\lvleh\Documents\C++\Tehtävä 7\tehtava01\tehtava01\tehtava01.cpp(27,16): message : see reference to class template instantiation 'Stack<int>' being compiled
+  tehtava01.vcxproj -> C:\Users\lvleh\Documents\C++\Tehtävä 7\tehtava01\x64\Debug\tehtava01.exe
